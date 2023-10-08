@@ -6,6 +6,5 @@ enable-magisk-update = true   # set this to false if you do not want to receive 
 
 [Tiktok]
 apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
-apkmirror-arch = "both"
 build-mode = "module"
 version = "30.8.4"
