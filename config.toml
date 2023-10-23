@@ -10,7 +10,7 @@ version = "30.8.4"
 
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
-version = "18.38.44"
+version = "18.32.39"
 excluded-patches = "'Enable debugging' 'Premium heading'"
 
 [Reddit]
