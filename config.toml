@@ -4,8 +4,8 @@ enable-magisk-update = true   # set this to false if you do not want to receive 
 # add 'enabled = false' for not patching a specific app or remove it from the config
 # see https://github.com/j-hc/revanced-magisk-module/blob/main/CONFIG.md for more detailed explanations
 
-[CandyLink]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/liondev-io/candylink-vpn/"
-version = "3.1.0"
+[YouTube]
+apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
+version = "18.45.43"
 
 
